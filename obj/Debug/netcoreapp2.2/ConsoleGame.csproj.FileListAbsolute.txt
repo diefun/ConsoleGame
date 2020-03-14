@@ -1,0 +1,10 @@
+/Users/d/Downloads/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.deps.json
+/Users/d/Downloads/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.json
+/Users/d/Downloads/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.dev.json
+/Users/d/Downloads/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/d/Downloads/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/d/Downloads/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csprojAssemblyReference.cache
+/Users/d/Downloads/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfoInputs.cache
+/Users/d/Downloads/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfo.cs
+/Users/d/Downloads/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/d/Downloads/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.pdb
